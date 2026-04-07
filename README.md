@@ -1,23 +1,35 @@
+## Hi, I’m Clinton Chidera
 
-💻 Frontend Developer with a strong focus on **React, JavaScript, and Web3 technologies**
+ Frontend Developer transitioning into Cybersecurity
+ Focused on SOC Operations | Threat Detection | Incident Response
 
-🔐 Currently learning **Cybersecurity with a focus on Offensive Security, Defensive Security, Networking, and Security Labs**
+ Passionate about building security labs, analyzing threats, and understanding attacker behavior
 
-🧪 Building and documenting **cybersecurity labs, security tools, and penetration testing practice**
+#  About Me
+I am an ALX-trained and Cisco-certified technology professional with a strong interest in cybersecurity, networking, and problem-solving.
 
-📫 Reach me on Linktree: https://linktr.ee/dapplab_co
-
-⚡ Fun fact: I love building secure, clean interfaces and exploring how systems can be protected from attackers
-
-
-#  Hi, I’m Clinton
+I combine development skills with security knowledge to understand how systems are built, exploited, and defended.
 <a href="https://www.linkedin.com/in/cinton-chidera/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate (Alx) with a profound interest in technology and a dedication to solving complex problems.
 
-## Objective
+Currently building hands-on experience in:
 
-My journey in computer program has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Offensive Security
+Defensive Security
+Networking & Traffic Analysis
+Security Labs & Simulations
+
+## Career Objective
+
+I am actively transitioning into cybersecurity and seeking a Tier 1 SOC Analyst role.
+
+I bring:
+
+Hands-on experience with SIEM tools and log analysis
+Practical exposure to threat detection and incident response
+A strong foundation in JavaScript, React, and system logic
+Continuous learning through labs and real-world simulations
 
 ## Skills
 
@@ -72,6 +84,23 @@ My journey in computer program has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
-- Pentesting
+-Detection Lab
+
+Configured a simulated SOC environment to monitor and analyze network traffic using SIEM tools.
+
+Tools: Splunk, Wireshark
+Focus: Log analysis, threat detection
+
+- SOC Automation Lab
+
+Configured automated workflows for incident detection and response.
+
+Tools: Shuffle SOAR, TheHive
+Focus: Alert handling, case management
+
+- Penetration Testing Practice
+
+Performed basic penetration testing and vulnerability scanning.
+
+Tools: Nmap, Burp Suite
+Focus: Reconnaissance, vulnerability discovery
