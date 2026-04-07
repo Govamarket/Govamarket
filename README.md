@@ -1,4 +1,4 @@
-## Hi, I’m Clinton Chidera
+# Hi, I’m Clinton Chidera
 
  Frontend Developer transitioning into Cybersecurity
  Focused on SOC Operations | Threat Detection | Incident Response
@@ -9,9 +9,10 @@
 I am an ALX-trained and Cisco-certified technology professional with a strong interest in cybersecurity, networking, and problem-solving.
 
 I combine development skills with security knowledge to understand how systems are built, exploited, and defended.
-<a href="https://www.linkedin.com/in/cinton-chidera/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate (Alx) with a profound interest in technology and a dedication to solving complex problems.
+
+<a href="https://www.linkedin.com/in/cinton-chidera/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Currently building hands-on experience in:
 
