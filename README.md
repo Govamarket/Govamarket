@@ -55,11 +55,18 @@ My journey in computer program has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div>
-[![Security+](./assets/badges/securityplus.png)](https://www.credly.com/badges/fe89087e-641b-4521-89f6-3103d601da42/public_url)
+<a href="https://www.credly.com/badges/fe89087e-641b-4521-89f6-3103d601da42/public_url">
+ <img width="340" height="340" alt="I2CS__1_" src="https://github.com/user-attachments/assets/5dd69d64-b731-4759-a5dc-9e3070aad664" />
+</a>
 
-[![Network+](./assets/badges/networkplus.png)](https://www.credly.com/badges/343260d4-b4b7-4010-91ee-3eeaef2ffe7a/public_url)
 
-[![A+](./assets/badges/aplus.png)](https://www.credly.com/badges/1cc1e4df-7a3a-45fc-b1d1-ede02cdfe713/public_url)
+<a href="https://www.credly.com/badges/343260d4-b4b7-4010-91ee-3eeaef2ffe7a/public_url">
+  <img src="./assets/networkplus.png" width="120"/>
+</a>
+
+<a href="https://www.credly.com/badges/1cc1e4df-7a3a-45fc-b1d1-ede02cdfe713/public_url">
+  <img src="./assets/aplus.png" width="120"/>
+</a>
 </div>
 
 ## Projects
