@@ -61,11 +61,13 @@ My journey in computer program has led me to develop a passion for cybersecurity
 
 
 <a href="https://www.credly.com/badges/343260d4-b4b7-4010-91ee-3eeaef2ffe7a/public_url">
-  <img src="./assets/networkplus.png" width="120"/>
+<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/a1f9af49-8d5d-4e6d-bbaa-4edd038d9039" />
+
 </a>
 
 <a href="https://www.credly.com/badges/1cc1e4df-7a3a-45fc-b1d1-ede02cdfe713/public_url">
-  <img src="./assets/aplus.png" width="120"/>
+ <img width="340" height="340" alt="NetworkDefense_v1_091721" src="https://github.com/user-attachments/assets/0d007ab2-4a54-4f8a-8106-e664bbd790df" />
+
 </a>
 </div>
 
