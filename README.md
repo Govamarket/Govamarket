@@ -55,11 +55,11 @@ My journey in computer program has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div>
-[![Security+](https://images.credly.com/images/fe89087e-641b-4521-89f6-3103d601da42.png)](https://www.credly.com/badges/fe89087e-641b-4521-89f6-3103d601da42/public_url)
+[![Security+](./assets/badges/securityplus.png)](https://www.credly.com/badges/fe89087e-641b-4521-89f6-3103d601da42/public_url)
 
-[![Network+](https://images.credly.com/images/343260d4-b4b7-4010-91ee-3eeaef2ffe7a.png)](https://www.credly.com/badges/343260d4-b4b7-4010-91ee-3eeaef2ffe7a/public_url)
+[![Network+](./assets/badges/networkplus.png)](https://www.credly.com/badges/343260d4-b4b7-4010-91ee-3eeaef2ffe7a/public_url)
 
-[![A+](https://images.credly.com/images/1cc1e4df-7a3a-45fc-b1d1-ede02cdfe713.png)](https://www.credly.com/badges/1cc1e4df-7a3a-45fc-b1d1-ede02cdfe713/public_url)
+[![A+](./assets/badges/aplus.png)](https://www.credly.com/badges/1cc1e4df-7a3a-45fc-b1d1-ede02cdfe713/public_url)
 </div>
 
 ## Projects
