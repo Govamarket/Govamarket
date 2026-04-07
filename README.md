@@ -55,17 +55,11 @@ My journey in computer program has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div>
-<a href="https://www.credly.com/badges/fe89087e-641b-4521-89f6-3103d601da42/public_url">
-  <img src="https://images.credly.com/size/340x340/images/fe89087e-641b-4521-89f6-3103d601da42/image.png" width="120"/>
-</a>
+[![Security+](https://images.credly.com/images/fe89087e-641b-4521-89f6-3103d601da42.png)](https://www.credly.com/badges/fe89087e-641b-4521-89f6-3103d601da42/public_url)
 
-<a href="https://www.credly.com/badges/343260d4-b4b7-4010-91ee-3eeaef2ffe7a/public_url">
-  <img src="https://images.credly.com/size/340x340/images/343260d4-b4b7-4010-91ee-3eeaef2ffe7a/image.png" width="120"/>
-</a>
+[![Network+](https://images.credly.com/images/343260d4-b4b7-4010-91ee-3eeaef2ffe7a.png)](https://www.credly.com/badges/343260d4-b4b7-4010-91ee-3eeaef2ffe7a/public_url)
 
-<a href="https://www.credly.com/badges/1cc1e4df-7a3a-45fc-b1d1-ede02cdfe713/public_url">
-  <img src="https://images.credly.com/size/340x340/images/1cc1e4df-7a3a-45fc-b1d1-ede02cdfe713/image.png" width="120"/>
-</a>
+[![A+](https://images.credly.com/images/1cc1e4df-7a3a-45fc-b1d1-ede02cdfe713.png)](https://www.credly.com/badges/1cc1e4df-7a3a-45fc-b1d1-ede02cdfe713/public_url)
 </div>
 
 ## Projects
