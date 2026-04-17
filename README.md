@@ -69,7 +69,7 @@ Continuous learning through labs and real-world simulations
 ## Certifications
 
 <div>
- <div style="display: grid; grid-template-rows: auto auto;">
+
 <a href="https://www.credly.com/badges/fe89087e-641b-4521-89f6-3103d601da42/public_url">
  <img width="150" height="150" alt="I2CS__1_" src="https://github.com/user-attachments/assets/5dd69d64-b731-4759-a5dc-9e3070aad664" />
 </a>
@@ -82,11 +82,8 @@ Continuous learning through labs and real-world simulations
 
 <a href="https://www.credly.com/badges/1cc1e4df-7a3a-45fc-b1d1-ede02cdfe713/public_url">
  <img width="150" height="150" alt="NetworkDefense_v1_091721" src="https://github.com/user-attachments/assets/0d007ab2-4a54-4f8a-8106-e664bbd790df" /> </a>
- </div>
+ <br>
 <img width="1280" height="720" alt="159-cybersecurity-certificate-chinagorom-clinton-chidera" src="https://github.com/user-attachments/assets/d4c843fa-6b22-4a6d-9094-caac68c65475" />
-
-
-
 </div>
 
 ## Projects
