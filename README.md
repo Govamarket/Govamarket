@@ -69,7 +69,7 @@ Continuous learning through labs and real-world simulations
 ## Certifications
 
 <div>
- <div style="display: grid; grid-template-columns: auto auto auto auto;">
+ <div style="display: grid; grid-template-rows: auto auto;">
 <a href="https://www.credly.com/badges/fe89087e-641b-4521-89f6-3103d601da42/public_url">
  <img width="150" height="150" alt="I2CS__1_" src="https://github.com/user-attachments/assets/5dd69d64-b731-4759-a5dc-9e3070aad664" />
 </a>
