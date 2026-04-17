@@ -42,6 +42,7 @@ Continuous learning through labs and real-world simulations
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Web Application Security Lab                    | <a href="https://github.com/Govamarket/Ctf-writeups/blob/main/README.md"></a> |
 
 ## Tools
 
