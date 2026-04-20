@@ -83,7 +83,7 @@ Continuous learning through labs and real-world simulations
 <a href="https://www.credly.com/badges/1cc1e4df-7a3a-45fc-b1d1-ede02cdfe713/public_url">
  <img width="150" height="150" alt="NetworkDefense_v1_091721" src="https://github.com/user-attachments/assets/0d007ab2-4a54-4f8a-8106-e664bbd790df" /> </a>
  <br>
-<img width="150" height="150" alt="159-cybersecurity-certificate-chinagorom-clinton-chidera" src="https://github.com/user-attachments/assets/d4c843fa-6b22-4a6d-9094-caac68c65475" />
+<img width="500" height="500" alt="159-cybersecurity-certificate-chinagorom-clinton-chidera" src="https://github.com/user-attachments/assets/d4c843fa-6b22-4a6d-9094-caac68c65475" />
 </div>
 
 ## Projects
