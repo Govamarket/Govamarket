@@ -43,7 +43,8 @@ Continuous learning through labs and real-world simulations
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Web Application Security Lab                    | <a href="https://github.com/Govamarket/Ctf-writeups/blob/main/README.md">Vulnerability Summary</a> | 
-| Web Application Security Lab      | <a href="https://github.com/Govamarket/Coupon-Redemption/blob/main/README.md">Coupon Redemption</a>    
+| Web Application Security Lab      | <a href="https://github.com/Govamarket/Coupon-Redemption/blob/main/README.md">Coupon Redemption</a>
+| Broken Access Control Lab   | <a href="https://github.com/Govamarket/Path-Traversal-Vulnerability-Write-Up/blob/main/README.md">Traversal Path</a>
 
 ## Tools
 
