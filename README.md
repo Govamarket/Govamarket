@@ -45,6 +45,7 @@ Continuous learning through labs and real-world simulations
 | Web Application Security Lab                    | <a href="https://github.com/Govamarket/Ctf-writeups/blob/main/README.md">Vulnerability Summary</a> | 
 | Web Application Security Lab      | <a href="https://github.com/Govamarket/Coupon-Redemption/blob/main/README.md">Coupon Redemption</a>
 | Broken Access Control Lab   | <a href="https://github.com/Govamarket/Path-Traversal-Vulnerability-Write-Up/blob/main/README.md">Traversal Path</a>
+| Broken Access Control Lab | <a href="https://github.com/Govamarket/IDOR-Vulnerability-Write-Up">IDOR Vulnerability</a>
 
 ## Tools
 
