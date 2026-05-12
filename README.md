@@ -5,7 +5,7 @@ Focused on **SOC Operations** · **Threat Detection** · **Incident Response**
 
 Passionate about building security labs, analyzing threats, and understanding attacker behavior.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cinton-chidera/)
+<a href="https:// [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cinton-chidera/) " </a>
 
 ---
 
