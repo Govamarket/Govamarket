@@ -87,8 +87,18 @@ Seeking a **Tier 1 SOC Analyst** role where I can apply:
 | Incident Response Planning & Execution | SOC Automation Lab |
 | Case Management with TheHive | SOC Automation Lab |
 | Scripting & Automation for Threat Mitigation | SOC Automation Lab |
-| Web Application Security | [Vulnerability Summary](https://github.com/Govamarket/Ctf-writeups/blob/main/README.md) · [Coupon Redemption](https://github.com/Govamarket/Coupon-Redemption/blob/main/README.md) |  (https://github.com/Govamarket/MD5-Password-Cracking-Challenge-Report)| (https://github.com/Govamarket/Backup-File-Exposure-Vulnerability-Report) | (https://github.com/Govamarket/Backup-File-Exposure-Vulnerability-Report) | (https://github.com/Govamarket/Security-Assessment-Report-MISCONFIG2) | (https://github.com/Govamarket/LFI-Vulnerability-Assessment-Report) |
-| Broken Access Control | [Path Traversal](https://github.com/Govamarket/Path-Traversal-Vulnerability-Write-Up/blob/main/README.md) · [IDOR Vulnerability](https://github.com/Govamarket/IDOR-Vulnerability-Write-Up) |
+|Web Application Security
+
+- [Vulnerability Summary](https://github.com/Govamarket/Ctf-writeups/blob/main/README.md)
+- [Coupon Redemption](https://github.com/Govamarket/Coupon-Redemption/blob/main/README.md)
+- [MD5 Password Cracking Challenge Report](https://github.com/Govamarket/MD5-Password-Cracking-Challenge-Report)
+- [Backup File Exposure Vulnerability Report](https://github.com/Govamarket/Backup-File-Exposure-Vulnerability-Report)
+- [Security Assessment Report (Misconfiguration)](https://github.com/Govamarket/Security-Assessment-Report-MISCONFIG2)
+- [LFI Vulnerability Assessment Report](https://github.com/Govamarket/LFI-Vulnerability-Assessment-Report)
+
+### Broken Access Control
+- Path Traversal: [Write-up](https://github.com/Govamarket/Path-Traversal-Vulnerability-Write-Up/blob/main/README.md)
+- IDOR Vulnerability: [Write-up](https://github.com/Govamarket/IDOR-Vulnerability-Write-Up)
  
 ---
 
