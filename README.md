@@ -39,7 +39,7 @@ Seeking a **Tier 1 SOC Analyst** role where I can apply:
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white)
 ![Zeek](https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white)
-![Loggly](https://img.shields.io/badge/Loggly-Log%20Management-orange)
+
 
 ### Endpoint
 ![Microsoft Defender](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white)
@@ -49,6 +49,7 @@ Seeking a **Tier 1 SOC Analyst** role where I can apply:
 ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white)
 ![Elastic](https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white)
+![Loggly](https://img.shields.io/badge/Loggly-Log%20Management-orange)
 
 ---
 
