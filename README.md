@@ -83,7 +83,7 @@ Seeking a **Tier 1 SOC Analyst** role where I can apply:
 
 | Skill | Associated Project |
 |---|---|
-| SIEM Implementation & Log Analysis | [Detection Lab](#) |
+| SIEM Implementation & Log Analysis | [Detection Lab](#) https://github.com/Govamarket/GovaLab-SOC-Lab-Log-Management-with-Loggly-NXLog/blob/main/README.md|
 | Network Traffic Monitoring & Attack Detection | [Detection Lab](#) |
 | Security Automation with Shuffle SOAR | SOC Automation Lab |
 | Incident Response Planning & Execution | SOC Automation Lab |
